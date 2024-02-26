@@ -1,0 +1,70 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: #38b99b;
+}
+
+.center{
+    background-color: white;
+    max-width: 380px;
+    min-height: 350px;
+    margin: 10% auto;
+    border-radius: 15px;
+}
+
+.center h1{
+    text-align: center;
+    height: 80px;
+    color: rgb(22, 20, 20);
+    background: #129278;
+    border-radius: 15px 15px 0 0;
+    padding: 15px;
+    font-size: 30;
+}
+
+.center form{
+    width: 70%;
+    padding: 20px;
+    margin: 0 auto;
+    position: relative;
+    font-size: 15px;
+    text-align: justify;
+}
+.center form .txt_field {
+    margin-bottom: 15px; 
+}
+.center form .txt_field input{
+    width: 100%;
+    height: 36px;
+    outline: none;
+    border-radius: 10px;
+    border: 1px solid rgb(195, 190, 190);
+    border-width: 1px;
+    padding-left: 10px;
+}
+
+.center form .password a, .not_member a{
+    margin: 4px;
+    color: #129278;
+}
+
+.center form .button input{
+    height: 34px;
+    width: 100%;
+    color: #f2f5f2;
+    font-size: 16px;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+    background: #21836c;
+    border-radius: 5px;
+    border: 1px solid #16a085;
+    cursor: pointer;
+}
+
+form .button input:hover{
+    background:  #38b99b;
+}
+
