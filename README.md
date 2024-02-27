@@ -1,3 +1,3 @@
-![main_page](https://github.com/hazalyesilkaya/login_project_hazal_yesilkaya/assets/115404578/febf2984-95f8-4c1b-927b-58d5108e77a5)
-![registration_form](https://github.com/hazalyesilkaya/login_project_hazal_yesilkaya/assets/115404578/1c1860c4-7e4f-4d8f-a12d-0377e0e3de39)
-![find_account](https://github.com/hazalyesilkaya/login_project_hazal_yesilkaya/assets/115404578/23979e40-07d2-404e-af2f-ea3735167f71)
+![main_page-min](https://github.com/hazalyesilkaya/login_project_hazal_yesilkaya/assets/115404578/598171ba-b56f-4642-afd2-31d1464d6345)
+![registration_form-min](https://github.com/hazalyesilkaya/login_project_hazal_yesilkaya/assets/115404578/b2404adb-2d25-4b0b-bdd0-5412c3a61b58)
+![find_account-min](https://github.com/hazalyesilkaya/login_project_hazal_yesilkaya/assets/115404578/4cdf1067-1730-40bb-b867-746bfadec50f)
